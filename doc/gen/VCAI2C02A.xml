@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/VCAI2C02A.kicad_sch</source>
+    <date>Tue Aug 16 16:28:00 2022</date>
+    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>VCAI2C02A</title>
+        <company>VCO34 for Mlab www.mlab.cz</company>
+        <rev>REV</rev>
+        <date>%F</date>
+        <source>VCAI2C02A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value="High-power voltage and current sensor\nwith I2C interface."/>
+        <comment number="3" value=""/>
+        <comment number="4" value="GPL 3.0"/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8e124a</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8a0466</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8a04a8</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bc2</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bc2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8cf1ba</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b49</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b49"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c922334</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b49</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b49"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8e3393</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8c3e84</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8a6324</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8865</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="C-Device" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8865"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8a6366</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>MM5Z10VT1G</value>
+      <footprint>Diode_SMD:D_SOD-523</footprint>
+      <fields>
+        <field name="UST_ID">5cb5832e1287500e61c99679</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="D_Zener-Device" description=""/>
+      <property name="UST_ID" value="5cb5832e1287500e61c99679"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c809774</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>+5V -Green</value>
+      <footprint>Mlab_D:LED_1206</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8895</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="LED-Device" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f8895"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c94e66a</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>CDBHM260L-HF</value>
+      <footprint>Mlab_D:MSB-2</footprint>
+      <fields>
+        <field name="UST_ID">5cb5829a1287500e61c99661</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="D_Bridge_+-AA-Device" description=""/>
+      <property name="UST_ID" value="5cb5829a1287500e61c99661"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c954a3e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>IN 50V(max)</value>
+      <footprint>Mlab_CON:XT30PW-M</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8ba8</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8ba8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c6dce91</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>BUS I2C</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x05</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="Conn_02x05_Odd_Even-Connector_Generic" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c88c2ef</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>EXT_POWER</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="Conn_01x02-Connector_Generic" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c80a53a</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>ADDR</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x02</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="Conn_02x02_Odd_Even-Connector_Generic" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8b6b40</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>BLM21PG300SN1D</value>
+      <footprint>Mlab_L:BLM21PG_3Amp</footprint>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f87fd</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="L-Device" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f87fd"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8a8653</tstamps>
+    </comp>
+    <comp ref="MH1">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c92f92f</tstamps>
+    </comp>
+    <comp ref="MH2">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c92fc0c</tstamps>
+    </comp>
+    <comp ref="MH3">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9330f1</tstamps>
+    </comp>
+    <comp ref="MH4">
+      <value>MountingHole_Pad</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="VCAI2C02A-rescue" part="MountingHole_Pad-Mechanical" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9365f0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aaa</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aaa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c6e40f4</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aaa</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aaa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c6e4168</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5cb585391287500e61c9968c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5cb585391287500e61c9968c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9efcac</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>40k2</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5cb839571287500e61c9974a</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5cb839571287500e61c9974a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9d0549</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k5</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f898e</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f898e"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9d03b3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>16k9</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5cb83a291287500e61c99759</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5cb83a291287500e61c99759"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9d04cd</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aaa</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aaa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c99b770</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8aaa</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8aaa"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c99b7e6</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8924b2</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>3k9</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f8994</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f8994"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8090e6</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8924e8</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>330R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8984</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f8984"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c94e7b6</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c90159b</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>180k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a9c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a9c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c92232d</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>180k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a9c</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a9c"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8e3320</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>33k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a8a</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a8a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c92234e</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>33k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8a8a</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984712875079b91f8a8a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c919f9e</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8aaae0</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="R-Device" description=""/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8aab4c</tstamps>
+    </comp>
+    <comp ref="TR1">
+      <value>L01ZxxxS05</value>
+      <footprint>Mlab_TR:L01ZxxxS05</footprint>
+      <fields>
+        <field name="MFPN">L01Z100S05</field>
+        <field name="UST_ID">5cb581511287500e61c99631</field>
+      </fields>
+      <libsource lib="L01ZxxxS05" part="L01ZxxxS05" description=""/>
+      <property name="MFPN" value="L01Z100S05"/>
+      <property name="UST_ID" value="5cb581511287500e61c99631"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c9014ab</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ADuM3190ARQZ</value>
+      <footprint>Mlab_IO:QSOP-16_3.9x4.9mm_P0.635mm</footprint>
+      <fields>
+        <field name="MFPN">ADuM3190ARQZ</field>
+        <field name="UST_ID">5cb589091287500e61c996a0</field>
+      </fields>
+      <libsource lib="ADuM3190" part="ADuM3190" description=""/>
+      <property name="MFPN" value="ADuM3190ARQZ"/>
+      <property name="UST_ID" value="5cb589091287500e61c996a0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c8b9dad</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MCP3423-E/UN</value>
+      <footprint>Mlab_IO:MSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf</datasheet>
+      <fields>
+        <field name="MFPN">MCP3423-E/UN</field>
+        <field name="UST_ID">5cb589b51287500e61c996bf</field>
+      </fields>
+      <libsource lib="VCAI2C02A-rescue" part="MCP3423-Analog_ADC" description=""/>
+      <property name="MFPN" value="MCP3423-E/UN"/>
+      <property name="UST_ID" value="5cb589b51287500e61c996bf"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="VCAI2C02A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005c6c7d4a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="ADuM3190" part="ADuM3190">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADuM3190</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd1" type="power_in"/>
+        <pin num="2" name="GND1" type="power_in"/>
+        <pin num="3" name="Vreg1" type="input"/>
+        <pin num="4" name="REFout1" type="output"/>
+        <pin num="5" name="NC" type="no_connect"/>
+        <pin num="6" name="EAout2" type="output"/>
+        <pin num="7" name="EAout" type="output"/>
+        <pin num="8" name="GND1" type="power_in"/>
+        <pin num="9" name="GND2" type="power_in"/>
+        <pin num="10" name="COMP" type="output"/>
+        <pin num="11" name="-IN" type="input"/>
+        <pin num="12" name="+IN" type="input"/>
+        <pin num="13" name="REFout2" type="output"/>
+        <pin num="14" name="Vreg2" type="input"/>
+        <pin num="15" name="GND2" type="power_in"/>
+        <pin num="16" name="Vdd2" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="L01ZxxxS05" part="L01ZxxxS05">
+      <fields>
+        <field name="Reference">TR</field>
+        <field name="Value">L01ZxxxS05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vout" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="C-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="Conn_01x02-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="Conn_02x02_Odd_Even-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Odd_Even-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="Conn_02x05_Odd_Even-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="D_Bridge_+-AA-Device">
+      <footprints>
+        <fp>D*Bridge*</fp>
+        <fp>D*Rectifier*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Bridge_+-AA-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="D_Zener-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="L-Device">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="LED-Device">
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="MCP3423-Analog_ADC">
+      <footprints>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP3423-Analog_ADC</field>
+        <field name="Footprint">Package_SO:MSOP-10_3x3mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CH1+" type="input"/>
+        <pin num="2" name="CH1-" type="input"/>
+        <pin num="3" name="Vss" type="power_in"/>
+        <pin num="4" name="CH2+" type="input"/>
+        <pin num="5" name="CH2-" type="input"/>
+        <pin num="6" name="Vdd" type="power_in"/>
+        <pin num="7" name="SDA" type="bidirectional"/>
+        <pin num="8" name="SCL" type="input"/>
+        <pin num="9" name="A0" type="input"/>
+        <pin num="10" name="A1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="MountingHole_Pad-Mechanical">
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad-Mechanical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="VCAI2C02A-rescue" part="R-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="ADuM3190">
+      <uri>/github/workspace/hw/sch_pcb/lib/ADuM3190.lib</uri>
+    </library>
+    <library logical="L01ZxxxS05">
+      <uri>/github/workspace/hw/sch_pcb/lib/L01ZxxxS05.lib</uri>
+    </library>
+    <library logical="VCAI2C02A-rescue">
+      <uri>/github/workspace/hw/sch_pcb/VCAI2C02A-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="TR1" pin="3" pinfunction="Vcc" pintype="power_in"/>
+      <node ref="U1" pin="1" pinfunction="Vdd1" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+    <net code="2" name="/COMP">
+      <node ref="U1" pin="10" pinfunction="COMP" pintype="output"/>
+      <node ref="U1" pin="11" pinfunction="-IN" pintype="input"/>
+    </net>
+    <net code="3" name="/EAout">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="EAout" pintype="output"/>
+    </net>
+    <net code="4" name="/INPUT">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/REFout2">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="REFout2" pintype="output"/>
+    </net>
+    <net code="6" name="/SCL">
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="7" name="/SDA">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/Vout">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="1" pinfunction="Vout" pintype="power_out"/>
+    </net>
+    <net code="9" name="/ch2-">
+      <node ref="U1" pin="4" pinfunction="REFout1" pintype="output"/>
+      <node ref="U2" pin="5" pinfunction="CH2-" pintype="input"/>
+    </net>
+    <net code="10" name="GNDD">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="TR1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="2" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="GND1" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="CH1-" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="Vss" pintype="power_in"/>
+    </net>
+    <net code="11" name="GNDPWR">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GND2" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GND2" pintype="power_in"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="Vreg2" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Vreg1" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="CH1+" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="CH2+" pintype="input"/>
+    </net>
+    <net code="16" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="Vdd2" pintype="power_in"/>
+    </net>
+    <net code="17" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D3-Pad3)">
+      <node ref="D3" pin="3" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D3-Pad4)">
+      <node ref="D3" pin="4" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="A0" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(J6-Pad3)">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="A1" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(R3-Pad2)">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="+IN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="VCC">
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(MH1-Pad1)">
+      <node ref="MH1" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(MH2-Pad1)">
+      <node ref="MH2" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(MH3-Pad1)">
+      <node ref="MH3" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(MH4-Pad1)">
+      <node ref="MH4" pin="1" pinfunction="1" pintype="input+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="EAout2" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>

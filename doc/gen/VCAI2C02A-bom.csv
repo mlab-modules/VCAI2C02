@@ -1,0 +1,43 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,MFPN,UST_ID
+1,,C-Device,C7 C8,10n,C_0805_2012Metric,2, ,~,,5c70984712875079b91f8b49
+2,,C-Device,C4 C9 C10,100n,C_0805_2012Metric,3, ,~,,5c70984712875079b91f8b4c
+3,,C-Device,C3 C5 C6,1u,C_0805_2012Metric,3, ,~,,5c70984812875079b91f8bc2
+4,,C-Device,C11,10uF,CP_EIA-3528-21_Kemet-B,1, ,~,,5c70984412875079b91f8865
+5,,LED-Device,D2,+5V -Green,LED_1206,1, ,~,,5c70984412875079b91f8895
+6,,D_Bridge_+-AA-Device,D3,CDBHM260L-HF,MSB-2,1, ,~,,5cb5829a1287500e61c99661
+7,,D_Zener-Device,D1,MM5Z10VT1G,D_SOD-523,1, ,~,,5cb5832e1287500e61c99679
+8,,Conn_02x02_Odd_Even-Connector_Generic,J6,ADDR,Straight_2x02,1, ,~,,
+9,,Conn_02x05_Odd_Even-Connector_Generic,J4,BUS I2C,Straight_2x05,1, ,~,,
+10,,Conn_01x02-Connector_Generic,J5,EXT_POWER,Straight_2x01,1, ,~,,
+11,,Conn_01x02-Connector_Generic,J1,IN 50V(max),XT30PW-M,1, ,~,,5c70984812875079b91f8ba8
+12,,L-Device,L1,BLM21PG300SN1D,BLM21PG_3Amp,1, ,~,,5c70984412875079b91f87fd
+13,,R-Device,R13,330R,R_0805_2012Metric,1, ,~,,5c70984512875079b91f8984
+14,,R-Device,R5,1k5,R_0805_2012Metric,1, ,~,,5c70984512875079b91f898e
+15,,R-Device,R11,3k9,R_0805_2012Metric,1, ,~,,5c70984612875079b91f8994
+16,,R-Device,R10 R12 R14 R22 R24,10k,R_0805_2012Metric,5, ,~,,5c70984612875079b91f899f
+17,,R-Device,R6,16k9,R_0805_2012Metric,1, ,~,,5cb83a291287500e61c99759
+18,,R-Device,R17 R18,33k,R_0805_2012Metric,2, ,~,,5c70984712875079b91f8a8a
+19,,R-Device,R4,40k2,R_0805_2012Metric,1, ,~,,5cb839571287500e61c9974a
+20,,R-Device,R3,50k,R_0805_2012Metric,1, ,~,,5cb585391287500e61c9968c
+21,,R-Device,R15 R16,180k,R_0805_2012Metric,2, ,~,,5c70984712875079b91f8a9c
+22,,R-Device,R1 R2 R7 R8,1M,R_0805_2012Metric,4, ,~,,5c70984712875079b91f8aaa
+23,,L01ZxxxS05,TR1,L01ZxxxS05,L01ZxxxS05,1, ,,L01Z100S05,5cb581511287500e61c99631
+24,,ADuM3190,U1,ADuM3190ARQZ,QSOP-16_3.9x4.9mm_P0.635mm,1, ,,ADuM3190ARQZ,5cb589091287500e61c996a0
+25,,MCP3423-Analog_ADC,U2,MCP3423-E/UN,MSOP-10_3x3mm_P0.5mm,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/22088c.pdf,MCP3423-E/UN,5cb589b51287500e61c996bf
+
+
+
+
+
+Project info:
+Schematic:,VCAI2C02A
+Variant:,default
+Revision:,REV
+Date:,%F
+KiCad Version:,6.0.4-6f826c9f35~116~ubuntu20.04.1
+Statistics:
+Component Groups:,25
+Component Count:,39
+Fitted Components:,39
+Number of PCBs:,1
+Total Components:,39
