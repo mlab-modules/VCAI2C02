@@ -1,0 +1,19 @@
+description: High power voltage and current measuring ADC with I2C interface
+github_branch: VCAI2C02A
+github_branches:
+- VCAI2C02A
+github_repo: VCAI2C02
+github_url: https://github.com/mlab-modules/VCAI2C02
+homepage: false
+image: doc/img/VCAI2C02A_QRcode.png
+images:
+- doc/img/VCAI2C02A_QRcode.png
+- doc/gen/img/VCAI2C02A-top.png
+- doc/gen/img/VCAI2C02A-bottom.png
+- hw/sch_pcb/simulace/screen_final.PNG
+- doc/gen/VCAI2C02A-schematic.svg
+issues: 0
+mark: 50
+mod_scheme: doc/gen/VCAI2C02A-schematic.pdf
+tags: []
+title: VCAI2C02
