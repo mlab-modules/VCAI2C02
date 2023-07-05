@@ -20,5 +20,12 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/VCAI2C02-ibom.html
 mod_scheme: doc/gen/VCAI2C02-schematic.pdf
-tags: []
+tags:
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: VCAI2C02
