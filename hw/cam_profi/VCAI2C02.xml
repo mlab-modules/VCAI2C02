@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/VCAI2C02.kicad_sch</source>
-    <date>Wed Jul  5 12:54:00 2023</date>
+    <date>Wed Jul  5 13:58:58 2023</date>
     <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -772,17 +772,7 @@
       </pins>
     </libpart>
   </libparts>
-  <libraries>
-    <library logical="ADuM3190">
-      <uri>/github/workspace/hw/sch_pcb/lib/ADuM3190.lib</uri>
-    </library>
-    <library logical="L01ZxxxS05">
-      <uri>/github/workspace/hw/sch_pcb/lib/L01ZxxxS05.lib</uri>
-    </library>
-    <library logical="VCAI2C02A-rescue">
-      <uri>/github/workspace/hw/sch_pcb/VCAI2C02A-rescue.lib</uri>
-    </library>
-  </libraries>
+  <libraries/>
   <nets>
     <net code="1" name="+5V">
       <node ref="C10" pin="1" pintype="passive"/>
