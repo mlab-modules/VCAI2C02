@@ -8,8 +8,8 @@ homepage: false
 image: doc/img/VCAI2C02A_QRcode.png
 images:
 - doc/img/VCAI2C02A_QRcode.png
-- doc/gen/img/VCAI2C02A-bottom.png
 - doc/gen/img/VCAI2C02A-top.png
+- doc/gen/img/VCAI2C02A-bottom.png
 - hw/sch_pcb/simulace/screen_final.PNG
 - doc/gen/VCAI2C02A-schematic.svg
 issues: 0
