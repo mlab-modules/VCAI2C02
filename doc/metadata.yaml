@@ -14,11 +14,11 @@ images:
 - doc/gen/VCAI2C02-schematic.svg
 - doc/gen/img/VCAI2C02-top.svg
 - doc/gen/img/VCAI2C02-bottom.svg
-- hw/cam_profi/docs/VCAI2C02A-assembly_page_01.svg
-- hw/cam_profi/docs/VCAI2C02A-assembly_page_02.svg
+- hw/cam_profi/assembly/VCAI2C02-assembly_page_02.svg
+- hw/cam_profi/assembly/VCAI2C02-assembly_page_01.svg
 issues: 0
 mark: 50
-mod_ibom: hw/cam_profi/ibom/VCAI2C02-ibom.html
+mod_ibom: hw/cam_profi/VCAI2C02-ibom.html
 mod_scheme: doc/gen/VCAI2C02-schematic.pdf
 tags:
 - mlab
