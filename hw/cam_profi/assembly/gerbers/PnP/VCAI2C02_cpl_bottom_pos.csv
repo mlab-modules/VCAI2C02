@@ -10,6 +10,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C11","10uF","CP_EIA-3528-21_Kemet-B",34.7980,-7.6200,90.0000,bottom
 "D1","MM5Z10VT1G","D_SOD-523",0.2540,-6.8580,-90.0000,bottom
 "D2","+5V","LED_1206",25.1460,0.2540,90.0000,bottom
+"D3","CDBHM260L-HF","MSB-2",-1.0160,-12.4460,180.0000,bottom
+"L1","BLM21PG300SN1D","BLM21PG_3Amp",19.5580,-4.3180,-90.0000,bottom
 "R1","1M","R_0805_2012Metric",14.9860,-15.7480,-90.0000,bottom
 "R2","1M","R_0805_2012Metric",7.8740,-15.7480,90.0000,bottom
 "R3","50k","R_0805_2012Metric",4.5720,-16.7640,0.0000,bottom

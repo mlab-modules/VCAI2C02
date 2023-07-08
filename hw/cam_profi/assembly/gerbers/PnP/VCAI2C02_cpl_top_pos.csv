@@ -1,0 +1,10 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","IN 50V(max)","XT30PW-M",11.4300,-16.0020,180.0000,top
+"J4","BUS I2C","Straight_2x05",16.7640,0.2540,90.0000,top
+"J5","EXT_POWER","Straight_2x01",5.8420,0.2540,90.0000,top
+"J6","ADDR","Straight_2x02",60.9600,-9.1440,90.0000,top
+"MH1","MountingHole_Pad","MountingHole_3mm",60.9600,0.0000,0.0000,top
+"MH2","MountingHole_Pad","MountingHole_3mm",0.0000,-20.3200,0.0000,top
+"MH3","MountingHole_Pad","MountingHole_3mm",60.9600,-20.3200,0.0000,top
+"MH4","MountingHole_Pad","MountingHole_3mm",0.0000,0.0000,0.0000,top
+"TR1","L01ZxxxS05","L01ZxxxS05",27.9400,-23.6220,0.0000,top
