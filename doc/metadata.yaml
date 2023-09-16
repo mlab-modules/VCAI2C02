@@ -7,15 +7,15 @@ github_url: https://github.com/mlab-modules/VCAI2C02
 homepage: false
 image_title: doc/img/VCAI2C02A_QRcode.png
 images:
+- doc/img/VCAI2C02A_QRcode.png
 - doc/gen/img/VCAI2C02-top.png
 - doc/gen/img/VCAI2C02-bottom.png
-- doc/img/VCAI2C02A_QRcode.png
 - hw/sch_pcb/simulace/screen_final.PNG
 - doc/gen/VCAI2C02-schematic.svg
-- doc/gen/img/VCAI2C02-bottom.svg
 - doc/gen/img/VCAI2C02-top.svg
-- hw/cam_profi/assembly/VCAI2C02-assembly_page_02.svg
+- doc/gen/img/VCAI2C02-bottom.svg
 - hw/cam_profi/assembly/VCAI2C02-assembly_page_01.svg
+- hw/cam_profi/assembly/VCAI2C02-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/VCAI2C02-ibom.html
@@ -29,4 +29,4 @@ tags:
 - mlab-kicad
 - pcb
 title: VCAI2C02
-updated: '2023-09-11T01:09:27.483440+00:00'
+updated: '2023-09-16T16:04:42.968033+00:00'
