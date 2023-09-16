@@ -20,6 +20,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/VCAI2C02-ibom.html
 mod_scheme: doc/gen/VCAI2C02-schematic.pdf
+status: 0
 tags:
 - mlab
 - mlab-module
