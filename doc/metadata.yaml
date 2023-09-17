@@ -2,6 +2,7 @@ description: High power voltage and current measuring ADC with I2C interface
 github_branch: VCAI2C02A
 github_branches:
 - VCAI2C02A
+github_description: High power voltage and current measuring ADC with I2C interface
 github_repo: VCAI2C02
 github_url: https://github.com/mlab-modules/VCAI2C02
 homepage: false
@@ -30,4 +31,4 @@ tags:
 - mlab-kicad
 - pcb
 title: VCAI2C02
-updated: '2023-09-16T22:03:55.402844+00:00'
+updated: '2023-09-17T11:30:14.226818+00:00'
