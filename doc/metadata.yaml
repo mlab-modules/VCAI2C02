@@ -1,8 +1,10 @@
-description: High power voltage and current measuring ADC with I2C interface
+description: I2C module for measuring 0-50A current and 0-50V voltage with high accuracy
+  and reliability.
 github_branch: VCAI2C02A
 github_branches:
 - VCAI2C02A
-github_description: High power voltage and current measuring ADC with I2C interface
+github_description: I2C module for measuring 0-50A current and 0-50V voltage with
+  high accuracy and reliability.
 github_repo: VCAI2C02
 github_url: https://github.com/mlab-modules/VCAI2C02
 homepage: false
@@ -31,4 +33,4 @@ tags:
 - mlab-kicad
 - pcb
 title: VCAI2C02
-updated: '2024-07-06T20:46:15.626154+00:00'
+updated: '2024-07-06T20:53:21.679241+00:00'

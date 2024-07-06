@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/VCAI2C02
-summary: High power voltage and current measuring ADC with I2C interface
+summary: I2C module for measuring 0-50A current and 0-50V voltage with high accuracy
+  and reliability.
